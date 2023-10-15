@@ -73,7 +73,7 @@ if (place>total){
         if (max>three){
             System.out.println(max);
         } else{
-            System.out.println("Самое большое число"+three);
+            System.out.println("Самое большое число!"+three);
         }
 
 
